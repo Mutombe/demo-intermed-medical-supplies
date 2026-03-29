@@ -605,13 +605,7 @@ const siteData = {
     ],
     heroSubtitle:
       "Real feedback from doctors, nurses, lab technicians, and hospital administrators who trust Intermed with their medical equipment needs.",
-    ratingBreakdown: [
-      { stars: 5, count: 22 },
-      { stars: 4, count: 5 },
-      { stars: 3, count: 1 },
-      { stars: 2, count: 0 },
-      { stars: 1, count: 0 },
-    ],
+    ratingBreakdown: { 5: 22, 4: 5, 3: 1, 2: 0, 1: 0 },
     items: [
       {
         name: "Dr. Tendai Mawire",
